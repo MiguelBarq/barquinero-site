@@ -32,14 +32,26 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://miguel-barquinero.com/</loc>
-    <lastmod>2023-01-09T15:30:00+00:00</lastmod>
+    <lastmod>2023-01-20T19:57:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://miguel-barquinero.com/tag/primary-instructor/</loc>
-    <lastmod>2023-01-09T15:30:00+00:00</lastmod>
+    <loc>https://miguel-barquinero.com/conference/</loc>
+    <lastmod>2023-01-20T19:57:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://miguel-barquinero.com/tags/</loc>
+    <lastmod>2023-01-20T19:57:57-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://miguel-barquinero.com/tag/topology/</loc>
+    <lastmod>2023-01-20T19:57:57-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://miguel-barquinero.com/conference/erdos/</loc>
+    <lastmod>2023-01-20T19:57:57-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://miguel-barquinero.com/tag/primary-instructor/</loc>
     <lastmod>2023-01-09T15:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -61,10 +73,6 @@
   </url><url>
     <loc>https://miguel-barquinero.com/talk/dnb_milnor_svarc/</loc>
     <lastmod>2022-06-17T19:57:57-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://miguel-barquinero.com/conference/</loc>
-    <lastmod>2022-04-16T19:57:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://miguel-barquinero.com/tag/ggt/</loc>

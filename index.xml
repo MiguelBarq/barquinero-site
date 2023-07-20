@@ -5,7 +5,7 @@
     <link>https://miguel-barquinero.com/</link>
       <atom:link href="https://miguel-barquinero.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Barquinero</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 15:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 19:57:57 -0500</lastBuildDate>
     <image>
       <url>https://miguel-barquinero.com/media/icon_hub5f3444703621f41c46b2337725a054d_23504_512x512_fill_lanczos_center_3.png</url>
       <title>Miguel Barquinero</title>
@@ -161,6 +161,14 @@
 &lt;li&gt;Fall 2021&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Winter School in Singularities and Low Dimensional Topology</title>
+      <link>https://miguel-barquinero.com/conference/erdos/</link>
+      <pubDate>Fri, 20 Jan 2023 19:57:57 -0500</pubDate>
+      <guid>https://miguel-barquinero.com/conference/erdos/</guid>
+      <description></description>
     </item>
     
     <item>
