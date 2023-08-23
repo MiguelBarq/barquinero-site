@@ -11,6 +11,11 @@
     <loc>https://miguel-barquinero.com/resource/tu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://miguel-barquinero.com/teaching/math1020-2/</loc>
+    <lastmod>2023-08-21T17:09:26+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://miguel-barquinero.com/teaching/math1850/</loc>
     <lastmod>2023-01-09T15:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,7 +37,19 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://miguel-barquinero.com/</loc>
-    <lastmod>2023-05-24T19:57:57-05:00</lastmod>
+    <lastmod>2023-08-21T17:09:26+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://miguel-barquinero.com/tag/primary-instructor/</loc>
+    <lastmod>2023-08-21T17:09:26+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://miguel-barquinero.com/tags/</loc>
+    <lastmod>2023-08-21T17:09:26+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://miguel-barquinero.com/teaching/</loc>
+    <lastmod>2023-08-21T17:09:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://miguel-barquinero.com/conference/atlanta/</loc>
@@ -43,24 +60,12 @@
     <lastmod>2023-05-24T19:57:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://miguel-barquinero.com/tags/</loc>
-    <lastmod>2023-05-24T19:57:57-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://miguel-barquinero.com/tag/topology/</loc>
     <lastmod>2023-05-24T19:57:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://miguel-barquinero.com/conference/erdos/</loc>
     <lastmod>2023-01-20T19:57:57-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://miguel-barquinero.com/tag/primary-instructor/</loc>
-    <lastmod>2023-01-09T15:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://miguel-barquinero.com/teaching/</loc>
-    <lastmod>2023-01-09T15:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://miguel-barquinero.com/talk/mostows_rigidity/</loc>
